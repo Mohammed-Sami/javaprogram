@@ -1,5 +1,5 @@
-public class student {
-    public student(){
+public class Student {
+    public Student(){
         System.out.println("Hello frmo student");
     }
 
